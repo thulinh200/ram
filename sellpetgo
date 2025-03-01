@@ -129,7 +129,7 @@ getgenv().Settings = {
 			["Hacker Egg"] = {Price = "5%", Amount = 5000},
 			["Exclusive"] = {Price = "5%"},
 			["Diamond"] = {Price = "5%"},
-			["Emerald"] = {Price = "5%", Amount = 5000},
+			["Emerald"] = {Price = "5%", Amount = 1},
 			["Mastery"] = {Price = "5%"},
 			["10,000x Thieving Egg"] = {Price = "5%", Amount = 5000},
 			["10x Thieving Egg"] = {Price = "5%", Amount = 5000},
