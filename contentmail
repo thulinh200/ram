@@ -207,6 +207,7 @@ end
 local content = getRandomphrases()
 
 
+task.spawn(function()
 local VirtualUser = game:service'VirtualUser'
 game:service'Players'.LocalPlayer.Idled:connect(function()
 VirtualUser:CaptureController()
@@ -219,4 +220,5 @@ local niggaJump = coroutine.create(function ()
     end
 end)
 coroutine.resume(niggaJump)
+end
 
