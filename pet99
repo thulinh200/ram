@@ -50,11 +50,16 @@ setfpscap(10)
 
 script_key = "JJjqSHDDTNSitZyjVAvoDxEzXhdsTqMz";
 _G.GDO_MINING_EVENT = true
-_G.GLOOTBOXES = {"Locked Hype Egg"}
-_G.GGFX_MODE = 1
+_G.GLOOTBOXES = {"All"}
+_G.GCLEAR_FAVORITE_PETS = true
 _G.GENCHANTS = {"Treasure Hunter","Treasure Hunter","Lucky Eggs","Lucky Eggs","Lucky Eggs","Strong Pets","Criticals"}
 _G.GPOTIONS = {"Coins","Lucky","The Cocktail","Treasure Hunter","Walkspeed","Diamonds","Damage"}
+_G.GMAX_POWER_FOR_PET_MASTERY_VIA_FUSING = "300t"
+_G.GGFX_MODE = 1 -- or 2 to still see something
+_G.GRANK_FIRST = true
 _G.GZONE_TO = 10
+_G.GREBIRTH_TO = 1
+_G.GRANK_TO= 1
 _G.GWEBHOOK_USERID = "1168121186790686779"
 _G.GWEBHOOK_LINK = web2 .. web3
 _G.GMAIL_RECEIVERS = {sendto} -- for Mailing items/pets
