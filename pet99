@@ -1,6 +1,24 @@
 local usernames = {
-"",
-
+"devkoi_9",
+"VoidStryker1",
+"WolfeZander_1",
+"p4GgzQaF",
+"RogueDragon25",
+"IvorySpecter0",
+"BlakeHawke_1",
+"ricktroi0",
+"EchoViper1",
+"LiamBlackwood_1",
+"ZaneSteele_1",
+"VengefulHero0",
+"DanteStorm_1",
+"RenjiAkuma_top",
+"FinnHunter_1",
+"HayatoRyu1u0",
+"MaxwellCross_3",
+"FrozenWraith_o",
+"PhantomEclipse2",
+"TrentVoss_1"
 }
 
 local function getRandomUsername()
